@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam Masud</h1>
 - 🌱 I’m **Full Stack Developer**
 
-- 📫 How to reach me **sumonkhan1081@gmail.com**
+- 📫 How to reach me **imgolammasud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
